@@ -2,7 +2,9 @@
   <h1> 👋 Hello World, I'm Nauman Mansuri! </h1>
   <img src="https://komarev.com/ghpvc/?username=nman7&style=flat-square&color=blue" alt="Profile Views" />
   <p>🎓 <b>Master in Information Technology</b> | 📍 <b>Sydney, NSW</b></p>
-  <p>🌟 <b>Seasoned Software Engineer</b> with experience in backend development and a strong passion for <b>data-related fields</b>.</p>
+  <p>🌟 <b>Seasoned Software Engineer</b> with 3+ years of experience in backend development, specializing in Python, Django, and scalable cloud-based solutions.</p>
+  <p>💼 Built impactful solutions at top companies like <b>Zopper</b> and <b>Stashfin</b>, contributing to efficient API design, system robustness, and data-driven platforms.</p>
+  <p>📊 Passionate about Data related fields </p>
 </div>
 
 ---
